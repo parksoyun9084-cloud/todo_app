@@ -10,7 +10,9 @@
 # 로컬 레포지토리에서
 git init
 
-git remote add origin(원격지 주소)
+git remote add origin(원격지 주소
+
+git pull origin main
 
 git add -A
 
